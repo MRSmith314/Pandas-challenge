@@ -9,9 +9,9 @@ This analysis was done over 7 district schools and 8 charter schools. Included i
 
 Contents
 
-Resources Files with two csv files for school and student data
-Jupyter Notebook containing data aggregation and analysis
-Text file with written report on analysis
+- Resources Files with two csv files for school and student data
+- Jupyter Notebook containing data aggregation and analysis
+- Text file with written report on analysis
 
 References
 
