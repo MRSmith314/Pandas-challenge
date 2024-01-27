@@ -1,0 +1,29 @@
+PyCity Schools Data Analysis Report
+Written by: Michelle R. Smith for 
+University of Denver Data Analytics Bootcamp
+
+
+
+
+Background
+Analyze the district-wide standardized test results in order to help the school board and mayor make strategic decisions regarding the future of school budgets and priorities.
+The data includes every student's math and reading scores, as well as various information on the schools they attend. The analysis involved aggregating the data to showcase obvious trends in school performance.
+
+
+This analysis was done over 7 district schools and 8 charter schools. Included in this analysis was school budgets, budgets per student, passing rates, math and  reading scores. Particular focus is given to the comparison between Charter Schools and District Schools.
+
+
+Summary of Budgets and School Size
+
+
+The total school budgets were broken down by individual schools according to the type, either “Charter” or “District”. The average Charter school had an average budget of $708, 280 with an average per student budget of $524. The average 
+District school had an average budget of $2,478,284 with an average per student budget of $563. Although the average overall budget of each type varied significantly the average per student budget did not. This can be attributed to the fact that District schools were much larger with student enrollments at between 2,000 and 5,000 students where Charter schools were mostly smaller with five of the seven Charter school enrollments having less than 1,000 students.
+
+
+Summary of Overall Passing Rates
+
+
+Analysis of the test scores reveals that the top performing schools are all charter schools with overall passing rates between 90.5% and 91.3%. In fact, all of the charter schools outperform District schools. The lowest performing charter school had an overall passing rate of 89.2% whereas the top performing District school had only a 52.9% overall passing rate.  This is a significant difference even though the spending per student for both Charter and District schools was similar. 
+
+
+It would be difficult to make recommendations other than to increase the number of Charter schools and to decrease the sizes of District schools since there seems to be a correlation between small school sizes. Further analysis should be performed on other budget spending items since District schools, which underperform, spend comparably to Charter schools per student.
